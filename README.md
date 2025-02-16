@@ -15,7 +15,7 @@ I am...
 * __🦾 Prosthetic Forearm__: a mechanical assembly of a forearm powered by several motors connected to an Arduino and to fishing lines mimicking muscles. Modeled and simulated in SolidWorks.
 
 ## More on me...
-* 2024 [Summer Research Abstract]([(https://hollandbloorview.ca/research-education/bloorview-research-institute/awards-events/ward-research-day)]) and [Research Poster]([(https://hollandbloorview.ca/sites/default/files/2024-07/Zuhair%20Qureshi%20poster.pdf)]) with Holland Bloorview Kids Rehabilitation Hospital.
+* 2024 [Summer Research Abstract]([url](https://hollandbloorview.ca/research-education/bloorview-research-institute/awards-events/ward-research-day)) and [Research Poster]([(https://hollandbloorview.ca/sites/default/files/2024-07/Zuhair%20Qureshi%20poster.pdf)]) with Holland Bloorview Kids Rehabilitation Hospital.
 
 <!--
 **ZuhairQureshi/ZuhairQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
