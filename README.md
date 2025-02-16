@@ -5,7 +5,7 @@ I am...
 * 🏢 Looking for a __4 month co-op__ opportunity from the start of __May 2025__ to the end of __August 2025__.
 
 ## ⚙️ Skills
-* __🛠️ Software Development:__ Git, Apache Maven, HTML, CSS, JavaScript, React, Node.js, Express.js, EJS, Streamlit, Flask.
+* __🛠️ Software Development:__ Git, Apache Maven, React.js, Node.js, Express.js, EJS, Streamlit, Flask.
 * __💻 Programming and Scripting Languages:__ Python, Java, C, Bash, MATLAB.
 * __📊 Data Analysis and Machine Learning:__ SQL, Excel, TensorFlow, Sklearn, MediaPipe, SpaCy.
 * __🤖 Hardware and Design:__ Arduino, Verilog, AutoDesk Inventor, SolidWorks, Quartus Prime.
