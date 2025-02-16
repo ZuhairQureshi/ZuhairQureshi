@@ -1,8 +1,15 @@
 ## Hi, I'm Zuhair Qureshi! 👋 
 I am...
-* A Level II Software and Biomedical Engineering student at McMaster University.
-* A Medical Software Developer hopeful and future Medical Device Developer. 
-* Looking for a 4 month co-op opportunity beginning at the start of May 2025 until the end of August 2025
+* A __Level II Software and Biomedical Engineering__ student at McMaster University.
+* A __Medical Software Developer__ hopeful and future __Medical Device Developer__. 
+* Looking for a __4 month co-op__ opportunity from the start of __May 2025__ to the end of __August 2025__
+
+## Skills ⚙️
+
+* __Web Development 🛠️:__ HTML, CSS, JavaScript, React, Node.js, Express.js, EJS, Git.
+* __Programming and Scripting Languages 💻:__ Python, Java, C, Bash, MATLAB.
+* __Data Analysis and Machine Learning 📊:__ SQL, Excel, TensorFlow, Sklearn, MediaPipe, SpaCy.
+* __Hardware and Design 🤖:__ Arduino, Verilog, AutoDesk Inventor, SolidWorks, Quartus Prime.
 
 <!--
 **ZuhairQureshi/ZuhairQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
