@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Zuhair Qureshi! 👋 
+I am...
+* A Level II Software and Biomedical Engineering student at McMaster University.
+* A Medical Software Developer hopeful and future Medical Device Developer. 
+* Looking for a 4 month co-op opportunity beginning at the start of May 2025 until the end of August 2025
 
 <!--
 **ZuhairQureshi/ZuhairQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
