@@ -2,14 +2,20 @@
 I am...
 * A __Level II Software and Biomedical Engineering__ student at McMaster University.
 * A __Medical Software Developer__ hopeful and future __Medical Device Developer__. 
-* Looking for a __4 month co-op__ opportunity from the start of __May 2025__ to the end of __August 2025__
+* Looking for a __4 month co-op__ opportunity from the start of __May 2025__ to the end of __August 2025__.
 
-## Skills ⚙️
-
-* __Web Development 🛠️:__ HTML, CSS, JavaScript, React, Node.js, Express.js, EJS, Git.
+## ⚙️ Skills
+* __Software Development 🛠️:__ Git, Apache Maven, HTML, CSS, JavaScript, React, Node.js, Express.js, EJS, Streamlit, Flask.
 * __Programming and Scripting Languages 💻:__ Python, Java, C, Bash, MATLAB.
 * __Data Analysis and Machine Learning 📊:__ SQL, Excel, TensorFlow, Sklearn, MediaPipe, SpaCy.
 * __Hardware and Design 🤖:__ Arduino, Verilog, AutoDesk Inventor, SolidWorks, Quartus Prime.
+
+## 🏗️ Projects Underway
+* __Body and Oral Language Learning Decoder (BOLLD) 📹__: a reinforcement learning-based approach to threat detection with feedback from two integrated components: a body language threat level classifier and a lip-reading model. For use in cases of audio corruption or hearing impairment. Coded in Python.
+* __Prosthetic Forearm 🦾__: a mechanical assembly of a forearm powered by several motors connected to an Arduino and to fishing lines mimicking muscles. Modeled and simulated in SolidWorks.
+
+## More on me...
+* 2024 [Summer Research Abstract]([url](https://hollandbloorview.ca/research-education/bloorview-research-institute/awards-events/ward-research-day)) and [Research Poster]([url](https://hollandbloorview.ca/sites/default/files/2024-07/Zuhair%20Qureshi%20poster.pdf)) with Holland Bloorview Kids Rehabilitation Hospital.
 
 <!--
 **ZuhairQureshi/ZuhairQureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
