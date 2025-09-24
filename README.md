@@ -1,6 +1,6 @@
 ## Hi, I'm Zuhair Qureshi! 👋 
 I am...
-* ⌨️ A __Level II Software and Biomedical Engineering__ student at McMaster University.
+* ⌨️ A __Level III Software and Biomedical Engineering__ student at McMaster University.
 * 🩺 A __Medical Software Developer__ hopeful and future __Medical Device Developer__. 
 * 🏢 Looking for a __4 month co-op__ opportunity from the start of __May 2025__ to the end of __August 2025__.
 
