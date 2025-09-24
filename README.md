@@ -10,7 +10,7 @@ I am...
 * __📊 Data Analysis and Machine Learning:__ SQL, Excel, TensorFlow, Sklearn, MediaPipe, SpaCy.
 * __🤖 Hardware and Design:__ Arduino, Verilog, AutoDesk Inventor, SolidWorks, Quartus Prime.
 
-## 🏗️ Projects Underway
+## 🏗️ Some Projects
 * __📹 Body and Oral Language Learning Decoder (BOLLD)__: a reinforcement learning-based approach to threat detection with feedback from two integrated components: a body language threat level classifier and a lip-reading model. For use in cases of audio corruption or hearing impairment. Coded in Python.
 * __🦾 Prosthetic Forearm__: a mechanical assembly of a forearm powered by several motors connected to an Arduino and to fishing lines mimicking muscles. Modeled and simulated in SolidWorks.
 
